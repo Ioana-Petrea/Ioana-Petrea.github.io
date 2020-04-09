@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>IDK does not matter</title>
+</head>
+<body bgcolor="#cce4e0" text="#fdd8c4" 
+leftmargin="15" topmargin="10">
+
+<p><h1 style="color:white; background-color=#710a60; font-family=verdana;text-align:center; fond-family:15">Filme</h1></p>
+
+<p style="color:ebb1c0; background-color:pink; font-family:arial; text-align:center; fond-size:10"> 
+	"Me before you"<br>
+	"Anastasia"<br>
+	"Black Panther"</br>
+	</p>
+
+<p><h1 style="color:gray; background-color:cde9e7; fond-family:verdana;text-align:center; fond-size:15">Seriale</h1></p>
+
+<p style="color:cdb9b7; background-color:cdb9b7; fond-family:arial; text-align:center; fond-size:10"> 
+	"Castlevania"</br>
+	"La casa de papel"</br> 
+	"Death note"</br>
+</p>
+
+</body>
+
+</html>
