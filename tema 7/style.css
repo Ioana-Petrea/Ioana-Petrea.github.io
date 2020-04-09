@@ -1,0 +1,21 @@
+body {
+		margin-left: 50px;
+		margin-right: 50px;
+		background-color: #339933;
+		color: #133039	;
+}
+a { 
+	color: #133939;
+	font-size: 30px;
+	text-align: center;
+}
+button {
+  background-color:#f2ffcc	; 
+  border-radius: 50%;
+  color:#608000 ;
+  padding: 15px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 20px;
+}
