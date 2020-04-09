@@ -1,0 +1,37 @@
+ body {
+		h1 {
+				color: light blue;
+				text-align: center;
+				
+				border-style: double;
+				border-color: light green;
+				border-width:6px;
+				
+				margin-right:250px;
+				margin-left:250px;
+			}
+			
+			p, a {
+					font-size:30px;
+					color: gray;
+					font-family: verdana;
+				}
+
+			body 
+				{	bgcolor="#cce4e0"
+					text="dark blue" 
+					leftmargin="15"
+					topmargin="10"
+				}	
+			table,	th,	td	{
+					color:#003300
+					border-width:2px;
+					border-style:solid;
+					font-size: 20px;
+					text-align: center;
+					font-family: verdana;
+					}
+					th,	td {
+							padding: 10px;
+						}
+		}
