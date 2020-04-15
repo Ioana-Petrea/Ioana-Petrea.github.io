@@ -1,0 +1,12 @@
+.btn-primary {
+  color: green;
+  bg-color: light blue;
+}
+.btn-outline-secondary {
+color: forest green;
+bg-color: yellow;
+}
+.btn-outline-light"{
+  color: tomato;
+  bg-color: dark red;
+}
